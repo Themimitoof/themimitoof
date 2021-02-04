@@ -2,7 +2,7 @@
 
 Hello, I'm Michael (also known as _Themimitoof_ or _Mimitoof fullstack_), software engineer at [Gandi.net](https://gandi.net) based in _Paris, France_ (and sometimes in _Braga, Portugal_).
 
-For my love of infrastructures and for my and for my infinite curiosity, I also wear the hat of a system and network administrator.
+For my love of infrastructures and for my infinite curiosity, I also wear the hat of a system and network administrator.
 
 Feel free to contact me if you want some outages in your production environment 😏 👹
 
