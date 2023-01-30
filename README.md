@@ -1,6 +1,6 @@
 # Plop! 🖖
 
-<div style="text-align: center">
+<div align="center">
     <a href="https://mvieira.fr">🇬🇧 English blog</a> - <a href="https://themimitoof.fr">🇫🇷 French blog</a> - <a rel="me" href="https://pouet.pt/@themimitoof">🐘 Mastodon</a>
 </div>
 
