@@ -24,7 +24,9 @@ Here's a small list of projects publicly available on my GitHub profile. It does
  - [altice-exporter](https://github.com/Themimitoof/altice-exporter) - A Prometheus exporter for routers made by Altice Labs, used by SFR and MEO customers (Go)
  - [ipg](https://github.com/Themimitoof/ipg) - A simple IPv6 address generator for lazy netadmins (Go)
  - [black-gl-code-quality](https://github.com/Themimitoof/black-gl-code-quality) - Simple wrapper to convert [Black](https://github.com/psf/black) output to something that GitLab can ingest via a GitLab-CI pipeline (Python)
+ - [rapi](https://github.com/Themimitoof/rapi) -  A small script to generate RSS feeds from Wordpress API  (Python)
  - [report-roulette](https://github.com/Themimitoof/report-roulette) - A roulette tool plugged to GitLab to elect who's writing the meeting report (Go)
+
 ### Libs
 
  - [dj_sentry](https://github.com/Gandi/dj_sentry) - A Django app to initialize Sentry client for your Django applications
