@@ -20,9 +20,9 @@ Here's a small list of projects publicly available on my GitHub profile. It does
 
 ### Tools
 
- - [Cambak](https://github.com/Themimitoof/cambak) - 📸 A simple and easy to use tool for derushing digital cameras (Go)
+ - [Cambak](https://github.com/Themimitoof/cambak) ([post 📝](https://mvieira.fr/projects/cambak/)) - 📸 A simple and easy to use tool for derushing digital cameras (Go)
  - [altice-exporter](https://github.com/Themimitoof/altice-exporter) - A Prometheus exporter for routers made by Altice Labs, used by SFR and MEO customers (Go)
- - [ipg](https://github.com/Themimitoof/ipg) - A simple IPv6 address generator for lazy netadmins (Go)
+ - [ipg](https://github.com/Themimitoof/ipg) ([post 📝](https://mvieira.fr/projects/ipg/)) - A simple IPv6 address generator for lazy netadmins (Go)
  - [black-gl-code-quality](https://github.com/Themimitoof/black-gl-code-quality) - Simple wrapper to convert [Black](https://github.com/psf/black) output to something that GitLab can ingest via a GitLab-CI pipeline (Python)
  - [rapi](https://github.com/Themimitoof/rapi) -  A small script to generate RSS feeds from Wordpress API  (Python)
  - [report-roulette](https://github.com/Themimitoof/report-roulette) - A roulette tool plugged to GitLab to elect who's writing the meeting report (Go)
