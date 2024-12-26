@@ -26,6 +26,7 @@ Here's a small list of projects publicly available on my GitHub profile. It does
  - [black-gl-code-quality](https://github.com/Themimitoof/black-gl-code-quality) - Simple wrapper to convert [Black](https://github.com/psf/black) output to something that GitLab can ingest via a GitLab-CI pipeline (Python)
  - [rapi](https://github.com/Themimitoof/rapi) -  A small script to generate RSS feeds from Wordpress API  (Python)
  - [report-roulette](https://github.com/Themimitoof/report-roulette) - A roulette tool plugged to GitLab to elect who's writing the meeting report (Go)
+ - [dns2ip-templater](https://github.com/Themimitoof/dns2ip-templater) - A simple tool for resolving DNS records and render a template (e.g Traefik IPAllowList with dynamic IPs) [Go]
 
 ### Libs
 
